@@ -1,3 +1,4 @@
+Total time spent ~ 12 Hours
 # DAY 1 - BRAINSTORMING & BASIC DESIGN 13/10 ~4 Hours
 ### Ideation
 I began by listing basic functionality requirements and estimating sizes that would be appropriate.
@@ -108,7 +109,7 @@ https://www.jaycar.com.au/rotary-encoder-switch-with-pushbutton/p/SR1230
 https://www.jaycar.com.au/100nf-100vdc-polyester-capacitor/p/RG5125
 https://core-electronics.com.au/little-rubber-bumper-feet-pack-of-4.html
 
-# Finalizing Design + Software 31/10 ~3 Hours
+# Finalizing Design + Software 31/10 ~4 Hours
 ### Finalizing Model
 I added the final touches to the model to finish the design, it all looks good.
 ![image](https://blueprint.hackclub.com//user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--06176ee1be977b503511abface35d2b1360d2647/image.png)
@@ -130,3 +131,5 @@ FINAL BOM:
  - total shipping, \~24AUD
 
 **TOTAL = 111 AUD \~ 73 USD**
+
+Then I had to make the REPO and populate it with all this stuff which is apparently nessecary okay./
