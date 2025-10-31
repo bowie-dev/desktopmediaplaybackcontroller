@@ -27,7 +27,7 @@ bool btnStateExtra = 0, lastBtnExtra = 0;
 bool btnStateEnc = 0, lastBtnEnc = 0;
 
 // desktop media playbck controller
-// kinda messy version but works fine
+// kinda messy version but SHOULD work just fine
 
 unsigned long lastPressPrev = 0, lastPressPlay = 0, lastPressNext = 0, lastPressVoldn = 0, lastPressVolup = 0, lastPressExtra = 0, lastPressEnc = 0;
 
@@ -108,3 +108,4 @@ void checkEncoder() {
 
   lastEncState = state;
 }
+
